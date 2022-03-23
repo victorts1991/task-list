@@ -1,5 +1,5 @@
 # Task List
-A simple task list built with React and TypeScript.
+A simple task list built with React.js and TypeScript.
 
 ![Screenshot 1](Screenshot_1.png)
 
